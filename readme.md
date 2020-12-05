@@ -11,7 +11,7 @@
 List of podcast to know more about photography
 
 - [PetaPixel Photography Podcast](https://petapixel.com/podcast/)
-[![Spotify](https://raw.githubusercontent.com/rogersilvasouza/awesome-photography/main/media/podcasts/spotify.svg =16x16)](https://open.spotify.com/show/5M2lPiYiRCvIk8em3i1htj)
+[<img src="https://raw.githubusercontent.com/rogersilvasouza/awesome-photography/main/media/podcasts/spotify.svg =16x16">](https://open.spotify.com/show/5M2lPiYiRCvIk8em3i1htj)
 
 ## Section
 
