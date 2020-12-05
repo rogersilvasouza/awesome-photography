@@ -10,11 +10,11 @@
 
 List of podcast to know more about photography
 
-- [PetaPixel Photography Podcast](https://petapixel.com/podcast/)
-[<img src="https://raw.githubusercontent.com/rogersilvasouza/awesome-photography/main/media/podcasts/spotify.svg" height="20px" target="_blank" />](https://open.spotify.com/show/5M2lPiYiRCvIk8em3i1htj)
-[<img src="https://raw.githubusercontent.com/rogersilvasouza/awesome-photography/main/media/podcasts/itunes.svg" height="20px" target="_blank" />](https://podcasts.apple.com/us/podcast/petapixel-photography-podcast/id1039751243)
-[<img src="https://raw.githubusercontent.com/rogersilvasouza/awesome-photography/main/media/podcasts/google-podcasts.svg" height="20px" target="_blank" />](https://podcasts.google.com/feed/aHR0cHM6Ly9wZXRhcGl4ZWwubGlic3luLmNvbS9yc3M)
-[<img src="https://raw.githubusercontent.com/rogersilvasouza/awesome-photography/main/media/podcasts/rss.svg" height="20px" target="_blank" />](https://petapixel.libsyn.com/rss)
+- [PetaPixel Photography Podcast](https://petapixel.com/podcast/){:target="_blank"}
+[<img src="https://raw.githubusercontent.com/rogersilvasouza/awesome-photography/main/media/podcasts/spotify.svg" height="20px" />](https://open.spotify.com/show/5M2lPiYiRCvIk8em3i1htj){:target="_blank"}
+[<img src="https://raw.githubusercontent.com/rogersilvasouza/awesome-photography/main/media/podcasts/itunes.svg" height="20px" />](https://podcasts.apple.com/us/podcast/petapixel-photography-podcast/id1039751243){:target="_blank"}
+[<img src="https://raw.githubusercontent.com/rogersilvasouza/awesome-photography/main/media/podcasts/google-podcasts.svg" height="20px" />](https://podcasts.google.com/feed/aHR0cHM6Ly9wZXRhcGl4ZWwubGlic3luLmNvbS9yc3M){:target="_blank"}
+[<img src="https://raw.githubusercontent.com/rogersilvasouza/awesome-photography/main/media/podcasts/rss.svg" height="20px" />](https://petapixel.libsyn.com/rss){:target="_blank"}
 
 ## Section
 
