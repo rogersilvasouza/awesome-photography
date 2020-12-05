@@ -1,18 +1,16 @@
 # Awesome Photography [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> photography
+> This list aims to curate content that is interesting for photographers from around the world, if you feel the need please contribute
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Podcast](#podcast)
 
 ## Podcast
 
 List of podcast to know more about photography
 
 - [PetaPixel Photography Podcast](https://petapixel.com/podcast/)
-- [List item](http://example.com)
 
 ## Section
 
