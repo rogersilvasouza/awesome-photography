@@ -37,6 +37,11 @@ List of podcast to know more about photography
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/off-camera-with-sam-jones/id642483864)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9pa0gzdDVyeA?sa=X&ved=0CAMQ4aUDahcKEwioiYXwkLjtAhUAAAAAHQAAAAAQAg)
 
+- 🇧🇷&nbsp;[&nbsp;Fotologia](https://www.fotologia.net/podcast/) - Pra quem ama e quer viver de fotografia. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/2ZzCIVTOL2KnOGBXxYWpft)
+[<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/br/podcast/fotologia-podcast/id1058461825)
+[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83Nzk1NzNjL3BvZGNhc3QvcnNz?sa=X&ved=0CAMQ4aUDahcKEwj4pPaWobjtAhUAAAAAHQAAAAAQAQ)
+[<img src="media/podcasts/rss.svg" height="20px"/>](https://www.fotologia.net/podcast/feed/)
+
 - 🇺🇸&nbsp;[&nbsp;PetaPixel Photography Podcast](https://petapixel.com/podcast) - About the wonderful world of photography. It's a fusion of news, opinions, humor, and real-world. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/5M2lPiYiRCvIk8em3i1htj)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/petapixel-photography-podcast/id1039751243)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9wZXRhcGl4ZWwubGlic3luLmNvbS9yc3M)
@@ -86,11 +91,6 @@ List of podcast to know more about photography
 - 🇺🇸&nbsp;[&nbsp;The Fashion Photography Podcast](http://photographypodcast.net) -  The show where we talk all about fashion photography. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/3FIIkOhe00WGwDrHMxqiHv)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/the-fashion-photography-podcast/id1089367484)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cDovL3Bob3RvZ3JhcGh5cG9kY2FzdC5uZXQvZmVlZC9wb2RjYXN0?sa=X&ved=0CAMQ4aUDahcKEwjYo8CEnrjtAhUAAAAAHQAAAAAQAQ)
-
-- 🇧🇷&nbsp;[&nbsp;Fotologia](https://www.fotologia.net/podcast/) - Pra quem ama e quer viver de fotografia. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/2ZzCIVTOL2KnOGBXxYWpft)
-[<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/br/podcast/fotologia-podcast/id1058461825)
-[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83Nzk1NzNjL3BvZGNhc3QvcnNz?sa=X&ved=0CAMQ4aUDahcKEwj4pPaWobjtAhUAAAAAHQAAAAAQAQ)
-[<img src="media/podcasts/rss.svg" height="20px"/>](https://www.fotologia.net/podcast/feed/)
 
 - 🇺🇸&nbsp;[&nbsp;The Martin Bailey Photography](https://martinbaileyphotography.com/podcasts) - Provides education and inspiration by covering a mix of art, creativity and technical topics, interviews, gear reviews and travelogue style episodes. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/2IwrAgnzRKHM85ry4KgLEq)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/the-martin-bailey-photography-podcast/id79677184)
