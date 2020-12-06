@@ -10,9 +10,21 @@
 
 List of podcast to know more about photography
 
+- 🇧🇷&nbsp;[&nbsp;Arquivo RAW](https://open.spotify.com/show/42E257grORV7pQ38ekjXv1?si=82gU6UVESyaQ8gnBSyukzg) - Aqui o assunto é fotografia
+Arquivo Raw. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/42E257grORV7pQ38ekjXv1?si=82gU6UVESyaQ8gnBSyukzg)
+[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iOGIxOTc4L3BvZGNhc3QvcnNz)
+
 - 🇺🇸&nbsp;[&nbsp;B&H Photography Podcast](https://bhphotopodcast.libsyn.com) - Description. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/43OiRsweLEpNeBOW7xLFNJ)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/b-h-photography-podcast/id1052860428)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cDovL2JocGhvdG9wb2RjYXN0LmxpYnN5bi5jb20vcnNz)
+
+- 🇺🇸&nbsp;[&nbsp;Candela: Photography & Cinematography Masters](https://candela.podbean.com/) - The masters of photography and cinematography, in conversation with Alan Schaller and Christopher Hooton. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/3gIyo6EfgDuJpfEOa8rkLg)
+[<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/gb/podcast/candela-photography-cinematography-masters/id1496526751)
+[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2NhbmRlbGEvZmVlZC54bWw?sa=X&ved=0CAMQ4aUDahcKEwjA_LaEp7ntAhUAAAAAHQAAAAAQAg)
+
+- 🇧🇷&nbsp;[&nbsp;Câmara Escura](https://www.spreaker.com/show/camara-escura) - Description. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/6r7D7UA8VGyOUDOK2Ttjms)
+[<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/c%C3%A2mara-escura/id1494764398?uo=4)
+[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDIzMjUyNi9lcGlzb2Rlcy9mZWVk)
 
 - 🇺🇸&nbsp;[&nbsp;Classic Camera Revival](https://classiccamerarevival.podbean.com) - Looking at Cameras, Lens, Films, Development, tips, tricks, and techniques for all things related to Film Photography!. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/3OfeYxTkeFB8mD7QH9Me2n)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/classic-camera-revival/id963593864)
@@ -71,6 +83,9 @@ List of podcast to know more about photography
 - 🇺🇸&nbsp;[&nbsp;Photobiz Xposed](https://photobizx.com/interviews/) - The ultimate portrait and wedding photography business podcast.
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/au/podcast/photobizx-ultimate-portrait-wedding-photography-business/id620299393)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cDovL3Bob3RvYml6eC5jb20vZmVlZC8?sa=X&ved=0CAMQ4aUDahcKEwiguJm4lLjtAhUAAAAAHQAAAAAQAQ)
+
+- 🇧🇷&nbsp;[&nbsp;MobCast](https://linklist.bio/mobgrafando) - Podcasts cheios de conteúdo para entusiastas, iniciantes e profissionais da fotografia. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/2H1hiWa4f0yV4tevNtXQMY)
+[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82ODRkNGI0L3BvZGNhc3QvcnNz)
 
 - 🇺🇸&nbsp;[&nbsp;Six Figure Photography](https://www.sixfigurephotography.com/) - Discover how to use creative marketing techniques. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/0jq429uUACvb9OIVeWfyTw)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/the-six-figure-photography-podcast-with-ben-hartley/id1040370097)
@@ -143,7 +158,7 @@ List of podcast to know more about photography
 - 🇺🇸&nbsp;[&nbsp;Wedding Photographers Unite](http://www.weddingphotographersunite.com/) - For Wedding Photographers, By Wedding Photographers. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/2afhSuL5u7e1Qcby3Budql)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/wedding-photographers-unite/id960951017)
 
-<!-- - 🇺🇸🇧🇷&nbsp;[&nbsp;Template Podcast](https://example) - Description. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com)
+<!-- - 🇧🇷&nbsp;[&nbsp;Template Podcast](https://example) - Description. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com)
 [<img src="media/podcasts/rss.svg" height="20px"/>](https://rss.com) -->
