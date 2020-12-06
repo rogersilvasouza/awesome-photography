@@ -4,9 +4,23 @@
 
 ## Contents
 
-- [Podcast](#podcast)
+- [📸 Awesome Photography ![Awesome](https://awesome.re)](#-awesome-photography-)
+  - [Contents](#contents)
+  - [Brands](#brands)
+  - [Podcasts](#podcasts)
+  - [Utilities](#utilities)
+  - [Contribute](#contribute)
 
-## Podcast
+## Brands
+
+Brands and equipment most commonly used by professionals
+
+- [Canon](https://global.canon/en)
+- [Fuji](https://www.fujifilm.com/products/digital_cameras)
+- [Nikon](https://www.nikon.com)
+- [Sony](https://www.sony.com/electronics/cameras)
+
+## Podcasts
 
 List of podcast to know more about photography
 
@@ -125,14 +139,14 @@ Template Podcast Item
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com)
 [<img src="media/podcasts/rss.svg" height="20px"/>](https://rss.com) -->
 
-## Brands
+## Utilities
 
-Brands and equipment most commonly used by professionals
+Useful software or links that help with certain problems
 
-- [Canon](https://global.canon/en)
-- [Fuji](https://www.fujifilm.com/products/digital_cameras)
-- [Nikon](https://www.nikon.com)
-- [Sony](https://www.sony.com/electronics/cameras)
+- [Adobe Digital Negative Converter](https://helpx.adobe.com/photoshop/digital-negative.html) - 
+Adobe DNG Converter makes it possible to easily convert camera-specific raw files, from supported cameras to the more universal DNG raw file format.
+- [ImageOptim](https://imageoptim.com) - 
+Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
 
 ## Contribute
 
