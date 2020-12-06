@@ -10,7 +10,6 @@
 
 List of podcast to know more about photography
 
-
 - 🇺🇸&nbsp;[&nbsp;B&H Photography Podcast](https://bhphotopodcast.libsyn.com) - Description. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/43OiRsweLEpNeBOW7xLFNJ)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/b-h-photography-podcast/id1052860428)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cDovL2JocGhvdG9wb2RjYXN0LmxpYnN5bi5jb20vcnNz)
@@ -18,6 +17,10 @@ List of podcast to know more about photography
 - 🇺🇸&nbsp;[&nbsp;Classic Camera Revival](https://classiccamerarevival.podbean.com) - Looking at Cameras, Lens, Films, Development, tips, tricks, and techniques for all things related to Film Photography!. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/3OfeYxTkeFB8mD7QH9Me2n)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/classic-camera-revival/id963593864)
 [<img src="media/podcasts/rss.svg" height="20px"/>](https://feed.podbean.com/classiccamerarevival/feed.xml)
+
+- 🇧🇷&nbsp;[&nbsp;Coisa de Fotógrafa](https://coisadefotografa.com/coisa-de-fotografa-podcast/) - Se você quer viver de fotografia e ter clientes todos os meses. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/0LLgKMLQTGyhqdBcHybBrn)
+[<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/br/podcast/coisa-fot%C3%B3grafa-podcast-fotografia-carreira-e-felicidade/id1277722183)
+[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MjE5ODQ2NDAwL3NvdW5kcy5yc3M?sa=X&ved=0CAMQ4aUDahcKEwiA-an-nrntAhUAAAAAHQAAAAAQAQ)
 
 - 🇺🇸&nbsp;[&nbsp;Film Photography Podcast](https://filmphotographypodcast.podbean.com/) - Topics will touch on all film formats (from pocket-sized 110 to medium format), do-it-yourself techniques, digital technologies, motion picture film making and more. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/4HbBsJn8U1YVlzeXZRzMbQ)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/film-photography-podcast/id911802605)
@@ -41,6 +44,20 @@ List of podcast to know more about photography
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/br/podcast/fotologia-podcast/id1058461825)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83Nzk1NzNjL3BvZGNhc3QvcnNz?sa=X&ved=0CAMQ4aUDahcKEwj4pPaWobjtAhUAAAAAHQAAAAAQAQ)
 [<img src="media/podcasts/rss.svg" height="20px"/>](https://www.fotologia.net/podcast/feed/)
+
+- 🇧🇷&nbsp;[&nbsp;Fotografia Pensante](https://omicronfotografia.com.br/blog/tags/podcast-de-fotografia) - É, acima de tudo, mais um canal de democratização da Cultura fotográfica. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/6Kqv1PpN2lowCQclSQ8gC8)
+[<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/br/podcast/fotografia-pensante/id1381742635)
+[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMjkzNDYyMy9lcGlzb2Rlcy9mZWVk?sa=X&ved=0CAMQ4aUDahcKEwj49IfMmrntAhUAAAAAHQAAAAAQAQ)
+
+- 🇧🇷&nbsp;[&nbsp;Live de Foto](https://anchor.fm/livedefoto) - O que acontece quando quatro amigos sentam para conversar e por acaso todos são fotógrafos?. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/3blBb4deSK1wCvW4Oh2BRv)
+[<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/br/podcast/live-de-foto/id1511902665)
+[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZjI4MDA0MC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwiw44T_orntAhUAAAAAHQAAAAAQAQ)
+
+- 🇧🇷&nbsp;[&nbsp;Papo de Fotógrafo](https://www.papodefotografo.com.br/podcasts/) - O programa é uma mistura de podcast com bate-papo, com muita informação e diversão. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/6bUYyv4ujk536VWSlcHYXJ)
+[<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/br/podcast/papo-de-fot%C3%B3grafo/id693654467?l=en?l=en)
+
+- 🇧🇷&nbsp;[&nbsp;Papo Família](https://www.papodefotografo.com.br/podcasts/papo-familia/) - Um projeto criado especialmente para fotógrafos da área de newborn e família. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/3EddvQEYPRx52oOWrUrZqe)
+[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cucGFwb2RlZm90b2dyYWZvLmNvbS5ici9wb2RjYXN0cy9wYXBvLWZhbWlsaWEvZmVlZC8)
 
 - 🇺🇸&nbsp;[&nbsp;PetaPixel Photography Podcast](https://petapixel.com/podcast) - About the wonderful world of photography. It's a fusion of news, opinions, humor, and real-world. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/5M2lPiYiRCvIk8em3i1htj)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/petapixel-photography-podcast/id1039751243)
@@ -109,13 +126,24 @@ List of podcast to know more about photography
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RjYXN0bWlycm9yLmNvbS90d2lw)
 [<img src="media/podcasts/rss.svg" height="20px"/>](https://feeds.podcastmirror.com/twip)
 
+- 🇧🇷&nbsp;[&nbsp;SMIA - Santa Mãe do ISO alto](https://santamaedoisoalto.com.br) - é um podcast sobre audiovisual para discussão de assuntos relacionados a produção de vídeo, fotografia e afins. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/083cWx3rEwphuzEjn1SxBn?si=bxrCOqSiRsusaWXphVKg5w)
+[<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/br/podcast/santa-m%C3%A3e-do-iso-alto/id1402028105)
+[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL3NhbnRhbWFlZG9pc29hbHRv?sa=X&ved=2ahUKEwj5lqXFzPPrAhUSuFkKHWU2DLQQ9sEGegQIARAF)
+
+- 🇧🇷&nbsp;[&nbsp;Sobre Fotografia](https://iradex.net/categorias/podcasts/sobre-fotografia/) - Um podcast sobre as imagens que produzimos e as imagens que nos produzem. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/0w24JkcYRSVyqSVx55CrtX)
+[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cDovL2lyYWRleC5jb20uYnIvc29icmVmb3RvZ3JhZmlhL2ZlZWQueG1s?sa=X&ved=0CAMQ4aUDahcKEwiw7-fLmrntAhUAAAAAHQAAAAAQAQ)
+
+- 🇧🇷&nbsp;[&nbsp;Veri e Roger](https://www.verieroger.com.br/podcast/) - Falaremos sobre nossas experiências dentro da fotografia, aquilo que aprendemos, estamos errando, colocando em prática e quebrando "tabus" dentro do Newborn, Acompanhamento e Gestante. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/5loxxqWjaoFD09urzJBoxn)
+[<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/ca/podcast/veri-e-roger-fotografia/id1497031935)
+[<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMzJlYmMwYy9wb2RjYXN0L3Jzcw==)
+
 - 🇺🇸&nbsp;[&nbsp;Wedding Photo Hangover](https://weddinghangover.com/) - The finest in phototainment! We're an irreverent look at photography. [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/wedding-photo-hangover/id1273248325)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NjYwMjg4L3BvZGNhc3QvcnNz)
 
 - 🇺🇸&nbsp;[&nbsp;Wedding Photographers Unite](http://www.weddingphotographersunite.com/) - For Wedding Photographers, By Wedding Photographers. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/2afhSuL5u7e1Qcby3Budql)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/wedding-photographers-unite/id960951017)
 
-<!-- - 🇺🇸&nbsp;[&nbsp;Template Podcast](https://example) - Description. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com)
+<!-- - 🇺🇸🇧🇷&nbsp;[&nbsp;Template Podcast](https://example) - Description. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com)
 [<img src="media/podcasts/rss.svg" height="20px"/>](https://rss.com) -->
@@ -125,7 +153,8 @@ List of podcast to know more about photography
 Brands and equipment most commonly used by professionals
 
 - [Canon](https://global.canon/en)
-- [Nikon](https://www.nikon.com/)
+- [Fuji](https://www.fujifilm.com/products/digital_cameras)
+- [Nikon](https://www.nikon.com)
 - [Sony](https://www.sony.com/electronics/cameras)
 
 ## Contribute
