@@ -10,16 +10,15 @@
 
 List of podcast to know more about photography
 
-- 🇧🇷&nbsp;[&nbsp;Arquivo RAW](https://open.spotify.com/show/42E257grORV7pQ38ekjXv1?si=82gU6UVESyaQ8gnBSyukzg) - Aqui o assunto é fotografia
-Arquivo Raw. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/42E257grORV7pQ38ekjXv1?si=82gU6UVESyaQ8gnBSyukzg)
+- 🇧🇷&nbsp;[&nbsp;Arquivo RAW](https://open.spotify.com/show/42E257grORV7pQ38ekjXv1?si=82gU6UVESyaQ8gnBSyukzg) - Aqui o assunto é fotografia. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/42E257grORV7pQ38ekjXv1?si=82gU6UVESyaQ8gnBSyukzg)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iOGIxOTc4L3BvZGNhc3QvcnNz)
-- 🇺🇸&nbsp;[&nbsp;B&H Photography Podcast](https://bhphotopodcast.libsyn.com) - Description. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/43OiRsweLEpNeBOW7xLFNJ)
+- 🇺🇸&nbsp;[&nbsp;B&H Photography Podcast](https://www.bhphotovideo.com/explora/podcasts) - Listen and learn with hands-on product demos, tips, buying guides and reviews. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/43OiRsweLEpNeBOW7xLFNJ)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/b-h-photography-podcast/id1052860428)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cDovL2JocGhvdG9wb2RjYXN0LmxpYnN5bi5jb20vcnNz)
 - 🇺🇸&nbsp;[&nbsp;Candela: Photography & Cinematography Masters](https://candela.podbean.com/) - The masters of photography and cinematography, in conversation with Alan Schaller and Christopher Hooton. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/3gIyo6EfgDuJpfEOa8rkLg)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/gb/podcast/candela-photography-cinematography-masters/id1496526751)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2NhbmRlbGEvZmVlZC54bWw?sa=X&ved=0CAMQ4aUDahcKEwjA_LaEp7ntAhUAAAAAHQAAAAAQAg)
-- 🇧🇷&nbsp;[&nbsp;Câmara Escura](https://www.spreaker.com/show/camara-escura) - Description. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/6r7D7UA8VGyOUDOK2Ttjms)
+- 🇧🇷&nbsp;[&nbsp;Câmara Escura](https://www.spreaker.com/show/camara-escura) - Esse é meu podcast pessoal onde misturo tudo o que gosto. Vamos falar de fotografia. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/6r7D7UA8VGyOUDOK2Ttjms)
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/c%C3%A2mara-escura/id1494764398?uo=4)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDIzMjUyNi9lcGlzb2Rlcy9mZWVk)
 - 🇺🇸&nbsp;[&nbsp;Classic Camera Revival](https://classiccamerarevival.podbean.com) - Looking at Cameras, Lens, Films, Development, tips, tricks, and techniques for all things related to Film Photography!. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/3OfeYxTkeFB8mD7QH9Me2n)
