@@ -11,7 +11,7 @@ List of content topics
 - [Podcasts](#podcasts)
 
 - [Utilities](#utilities)
-- 
+
 - [Posing Guide](#posing-guide)
   
 - [Contribute](#contribute)
