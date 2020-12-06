@@ -153,6 +153,8 @@ Posing guide to help you build your internal and external essay
 - [🇧🇷&nbsp;Saindo Bem na Foto - Vol 3 - Alex Pires](https://bit.ly/SBNFvol3) - In this volume it is time to talk about crouched, kneeling and sitting poses. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/photoalexpires)
 - [🇧🇷&nbsp;Saindo Bem na Foto - Vol 4 - Alex Pires](https://bit.ly/SBNFvol4) - In the last volume to finish with a golden key we will talk about the lying positions for the photo. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/photoalexpires)
 - [🇧🇷&nbsp;Guia de poses - Um ponto de partida - Robison Kunz](https://marketing.goimage.com.br/guia-de-poses-robison-kunz) - It is support material in the poses for photos at the beginning of the session and that can leave you more relaxed at the time of beginning. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/robisonkunz)
+- [🇧🇷&nbsp;Ebook – 500 Poses - Foto Dicas Brasil](https://fotodicasbrasil.com.br/ebook-500-poses) - "Poses, which one to do?" where I talk about the difficulty of having ideas for poses for photo shoots.
+- [🇧🇷&nbsp;Guia de poses fotografia lifestyle - Coisa de Fotografo 💲](https://coisadefotografa.com/guia-de-poses-fotografia-lifestyle) - Put an end to the fear of making cliché photos. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/coisadefotografa/)
 
 ## Utilities
 
