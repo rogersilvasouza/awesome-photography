@@ -4,12 +4,13 @@
 
 ## Contents
 
-- [📸 Awesome Photography ![Awesome](https://awesome.re)](#-awesome-photography-)
-  - [Contents](#contents)
-  - [Brands](#brands)
-  - [Podcasts](#podcasts)
-  - [Utilities](#utilities)
-  - [Contribute](#contribute)
+List of content topics
+
+- [Brands](#brands)
+- [Podcasts](#podcasts)
+
+- [Utilities](#utilities)
+- [Contribute](#contribute)
 
 ## Brands
 
