@@ -120,12 +120,13 @@ List of podcast to know more about photography
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com)
 [<img src="media/podcasts/rss.svg" height="20px"/>](https://rss.com) -->
 
-## Section
+## Brands
 
-About this section. Optional. Keep this short and focus on the list.
+Brands and equipment most commonly used by professionals
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Canon](https://global.canon/en)
+- [Nikon](https://www.nikon.com/)
+- [Sony](https://www.sony.com/electronics/cameras)
 
 ## Contribute
 
