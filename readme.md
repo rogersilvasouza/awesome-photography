@@ -7,9 +7,13 @@
 List of content topics
 
 - [Brands](#brands)
+  
 - [Podcasts](#podcasts)
 
 - [Utilities](#utilities)
+- 
+- [Posing Guide](#posing-guide)
+  
 - [Contribute](#contribute)
 
 ## Brands
@@ -139,6 +143,16 @@ Template Podcast Item
 [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com)
 [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com)
 [<img src="media/podcasts/rss.svg" height="20px"/>](https://rss.com) -->
+
+## Posing Guide
+
+Posing guide to help you build your internal and external essay
+
+- [🇧🇷&nbsp;Saindo Bem na Foto - Vol 1 - Alex Pires](https://bit.ly/ebooksbnf) - Inspired by the book by Eliot Siegel "1000 poses for pictures of women" and my experience with more than 500 tests done. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/photoalexpires)
+- [🇧🇷&nbsp;Saindo Bem na Foto - Vol 2 - Alex Pires](https://bit.ly/SBNFvol2) - Volume that deals with hand positions and standing poses. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/photoalexpires)
+- [🇧🇷&nbsp;Saindo Bem na Foto - Vol 3 - Alex Pires](https://bit.ly/SBNFvol3) - In this volume it is time to talk about crouched, kneeling and sitting poses. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/photoalexpires)
+- [🇧🇷&nbsp;Saindo Bem na Foto - Vol 4 - Alex Pires](https://bit.ly/SBNFvol4) - In the last volume to finish with a golden key we will talk about the lying positions for the photo. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/photoalexpires)
+- [🇧🇷&nbsp;Guia de poses - Um ponto de partida - Robison Kunz](https://marketing.goimage.com.br/guia-de-poses-robison-kunz) - It is support material in the poses for photos at the beginning of the session and that can leave you more relaxed at the time of beginning. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/robisonkunz)
 
 ## Utilities
 
