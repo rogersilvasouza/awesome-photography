@@ -16,6 +16,8 @@ List of content topics
 
 - [Posing Guide](#posing-guide)
 
+- [Stores](#stores)
+
 - [Contribute](#contribute)
 
 ## Brands
@@ -164,6 +166,13 @@ Posing guide to help you build your internal and external essay
 - [🇧🇷&nbsp;Guia de poses - Um ponto de partida - Robison Kunz](https://marketing.goimage.com.br/guia-de-poses-robison-kunz) - It is support material in the poses for photos at the beginning of the session and that can leave you more relaxed at the time of beginning. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/robisonkunz)
 - [🇧🇷&nbsp;Ebook – 500 Poses - Foto Dicas Brasil](https://fotodicasbrasil.com.br/ebook-500-poses) - "Poses, which one to do?" where I talk about the difficulty of having ideas for poses for photo shoots.
 - [🇧🇷&nbsp;Guia de poses fotografia lifestyle - Coisa de Fotografo 💲](https://coisadefotografa.com/guia-de-poses-fotografia-lifestyle) - Put an end to the fear of making cliché photos. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/coisadefotografa/)
+
+## Stores
+
+Reliable stores with good references
+
+- [F&F Equipamentos](https://www.ffequipamentos.com) - The best equipment in one place. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/ffequipamentos)
+- [Lucas Lapa Photopro](https://www.lucaslapa.com.br) - Sales Leader in Brazil, Your photographic equipment store. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/lucaslapaphotopro)
 
 ## Utilities
 
