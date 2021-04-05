@@ -40,6 +40,7 @@ Courses and workshops with successful professionals on specific or general knowl
 
 List of podcast to know more about photography
 
+- 🇧🇷&nbsp;[&nbsp;1 Podcast 2 Fotógrafas](https://open.spotify.com/show/55okLMQPkxr7h5701XOKJx?si=l3itd9SqQguokQi32tVugQ&nd=1) - 1 Podcast 2 Fotógrafas foi criado por Danielle Alves @quazar_ e Marina Chalom @chalomphotography para falar um pouco de tudo que é tema e também de fotografia!. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/55okLMQPkxr7h5701XOKJx?si=l3itd9SqQguokQi32tVugQ&nd=1)
 - 🇧🇷&nbsp;[&nbsp;Arquivo RAW](https://open.spotify.com/show/42E257grORV7pQ38ekjXv1?si=82gU6UVESyaQ8gnBSyukzg) - Aqui o assunto é fotografia. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/42E257grORV7pQ38ekjXv1?si=82gU6UVESyaQ8gnBSyukzg)
   [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iOGIxOTc4L3BvZGNhc3QvcnNz)
 - 🇺🇸&nbsp;[&nbsp;B&H Photography Podcast](https://www.bhphotovideo.com/explora/podcasts) - Listen and learn with hands-on product demos, tips, buying guides and reviews. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/43OiRsweLEpNeBOW7xLFNJ)
@@ -57,6 +58,8 @@ List of podcast to know more about photography
 - 🇧🇷&nbsp;[&nbsp;Coisa de Fotógrafa](https://coisadefotografa.com/coisa-de-fotografa-podcast/) - Se você quer viver de fotografia e ter clientes todos os meses. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/0LLgKMLQTGyhqdBcHybBrn)
   [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/br/podcast/coisa-fot%C3%B3grafa-podcast-fotografia-carreira-e-felicidade/id1277722183)
   [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MjE5ODQ2NDAwL3NvdW5kcy5yc3M?sa=X&ved=0CAMQ4aUDahcKEwiA-an-nrntAhUAAAAAHQAAAAAQAQ)
+- 🇧🇷&nbsp;[&nbsp;Luz com Café](https://www.grupoluz.com.br/) - Um podcast de dicas e opiniões valiosas sobre o mercado das imagens artísticas. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/6caeBSU4eePucHGw9AMucN)
+  [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWI0YzJhYy9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwjl54GG8-fvAhW9iJUCHT3zD3YQ9sEGegQIARAC)
 - 🇺🇸&nbsp;[&nbsp;Film Photography Podcast](https://filmphotographypodcast.podbean.com/) - Topics will touch on all film formats (from pocket-sized 110 to medium format), do-it-yourself techniques, digital technologies, motion picture film making and more. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/4HbBsJn8U1YVlzeXZRzMbQ)
   [<img src="media/podcasts/itunes.svg" height="20px"/>](https://podcasts.apple.com/us/podcast/film-photography-podcast/id911802605)
   [<img src="media/podcasts/rss.svg" height="20px"/>](https://feed.podbean.com/filmphotographypodcast/feed.xml)
@@ -165,6 +168,7 @@ Posing guide to help you build your internal and external essay
 - [🇧🇷&nbsp;Saindo Bem na Foto - Vol 4 - Alex Pires](https://bit.ly/SBNFvol4) - In the last volume to finish with a golden key we will talk about the lying positions for the photo. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/photoalexpires)
 - [🇧🇷&nbsp;Guia de poses - Um ponto de partida - Robison Kunz](https://marketing.goimage.com.br/guia-de-poses-robison-kunz) - It is support material in the poses for photos at the beginning of the session and that can leave you more relaxed at the time of beginning. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/robisonkunz)
 - [🇧🇷&nbsp;Ebook – 500 Poses - Foto Dicas Brasil](https://fotodicasbrasil.com.br/ebook-500-poses) - "Poses, which one to do?" where I talk about the difficulty of having ideas for poses for photo shoots.
+- [🇧🇷&nbsp;100 poses para moda por @myntlab](https://www.myntlab.com.br/100-poses-para-a-moda-por-mynt-lab) - Precisando renovar o seu repertório de poses? O super fotógrafo de moda Mynt @myntlab preparou um manual incrível com as 100 principais poses usadas em campanhas de moda, editoriais e lookbooks.
 - [🇧🇷&nbsp;Guia de poses fotografia lifestyle - Coisa de Fotografo 💲](https://coisadefotografa.com/guia-de-poses-fotografia-lifestyle) - Put an end to the fear of making cliché photos. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/coisadefotografa/)
 
 ## Stores
