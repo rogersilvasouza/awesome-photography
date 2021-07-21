@@ -40,7 +40,7 @@ Courses and workshops with successful professionals on specific or general knowl
 
 List of podcast to know more about photography
 
-- 🇧🇷&nbsp;[&nbsp;1 Podcast 2 Fotógrafas](https://open.spotify.com/show/55okLMQPkxr7h5701XOKJx?si=l3itd9SqQguokQi32tVugQ&nd=1) - 1 Podcast 2 Fotógrafas foi criado por Danielle Alves @quazar_ e Marina Chalom @chalomphotography para falar um pouco de tudo que é tema e também de fotografia!. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/55okLMQPkxr7h5701XOKJx?si=l3itd9SqQguokQi32tVugQ&nd=1)
+- 🇧🇷&nbsp;[&nbsp;1 Podcast 2 Fotógrafas](https://open.spotify.com/show/55okLMQPkxr7h5701XOKJx?si=l3itd9SqQguokQi32tVugQ&nd=1) - 1 Podcast 2 Fotógrafas foi criado por Danielle Alves @quazar\_ e Marina Chalom @chalomphotography para falar um pouco de tudo que é tema e também de fotografia!. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/55okLMQPkxr7h5701XOKJx?si=l3itd9SqQguokQi32tVugQ&nd=1)
 - 🇧🇷&nbsp;[&nbsp;Arquivo RAW](https://open.spotify.com/show/42E257grORV7pQ38ekjXv1?si=82gU6UVESyaQ8gnBSyukzg) - Aqui o assunto é fotografia. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/42E257grORV7pQ38ekjXv1?si=82gU6UVESyaQ8gnBSyukzg)
   [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iOGIxOTc4L3BvZGNhc3QvcnNz)
 - 🇺🇸&nbsp;[&nbsp;B&H Photography Podcast](https://www.bhphotovideo.com/explora/podcasts) - Listen and learn with hands-on product demos, tips, buying guides and reviews. [<img src="media/podcasts/spotify.svg" height="20px"/>](https://open.spotify.com/show/43OiRsweLEpNeBOW7xLFNJ)
@@ -177,6 +177,7 @@ Reliable stores with good references
 
 - [F&F Equipamentos](https://www.ffequipamentos.com) - The best equipment in one place. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/ffequipamentos)
 - [Lucas Lapa Photopro](https://www.lucaslapa.com.br) - Sales Leader in Brazil, Your photographic equipment store. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/lucaslapaphotopro)
+- [Shop da Fotografia](https://www.instagram.com/shopdafotografia) - Store located in Ribeirão Preto with sales of new, used and used products. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/shopdafotografia)
 
 ## Utilities
 
