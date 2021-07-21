@@ -2,6 +2,8 @@
 
 > This list aims to curate content that is interesting for photographers from around the world, if you feel the need please contribute
 
+> > Obs: Markdown format doesn't accept in a new tab so if you want to stay in the list use the right click open in new tab or hold the CMD button and click on the link.
+
 ## Contents
 
 List of content topics
