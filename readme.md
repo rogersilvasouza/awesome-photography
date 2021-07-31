@@ -16,6 +16,8 @@ List of content topics
 
 - [Utilities](#utilities)
 
+- [Recommendations](#recommendations)
+
 - [Posing Guide](#posing-guide)
 
 - [Stores](#stores)
@@ -190,6 +192,12 @@ Useful software or links that help with certain problems
   Adobe DNG Converter makes it possible to easily convert camera-specific raw files, from supported cameras to the more universal DNG raw file format.
 - [ImageOptim](https://imageoptim.com) -
   Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
+
+## Recommendations
+
+Product recommendations by content producers
+
+- [Thiago Rodrigues](https://www.thiagorodrigueschannel.com/) - Here you will find all the products I recommend in the audiovisual segment
 
 ## Contribute
 
