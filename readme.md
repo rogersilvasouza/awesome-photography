@@ -10,9 +10,9 @@ List of content topics
 
 - [Brands](#brands)
 
-- [Courses](#courses)
-
 - [Podcasts](#podcasts)
+
+- [Youtube](#youtube)
 
 - [Utilities](#utilities)
 
@@ -21,6 +21,8 @@ List of content topics
 - [Posing Guide](#posing-guide)
 
 - [Stores](#stores)
+
+- [Courses](#courses)
 
 - [Contribute](#contribute)
 
@@ -32,13 +34,6 @@ Brands and equipment most commonly used by professionals
 - [Fuji](https://www.fujifilm.com/products/digital_cameras)
 - [Nikon](https://www.nikon.com)
 - [Sony](https://www.sony.com/electronics/cameras)
-
-## Courses
-
-Courses and workshops with successful professionals on specific or general knowledge
-
-- 🇧🇷&nbsp;[Edição de Fotografia com Lucas Pinhel 💲](https://curso.lucaspinhel.com) - One of the most influential photographers in Brazil, filmmaker of premium brands and international reference in photo editing. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/lucaspinhel)
-- 🇧🇷&nbsp;[Curso Guii Rossi de Fotografia 💲](https://hotmart.com/product/curso-guii-rossi-de-fotografia) - Mindset for more creative and efficient photographic processes. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/guiirossi)
 
 ## Podcasts
 
@@ -163,6 +158,24 @@ Template Podcast Item
   [<img src="media/podcasts/google-podcasts.svg" height="20px"/>](https://podcasts.google.com)
   [<img src="media/podcasts/rss.svg" height="20px"/>](https://rss.com) -->
 
+## Youtube
+
+Informative videos on photography, filming, editing and related topics.
+
+- 🇧🇷&nbsp;[Abdala Brothers](https://www.youtube.com/c/AbdalaBrothers1) - Film & FX division Basically, we're magicians behind cameras and computers.
+- 🇧🇷&nbsp;[Armando Vernaglia Jr](https://www.youtube.com/channel/UCpFSFUvYFhb1I6_LxK8zLTw) - Armando Vernaglia Jr, fotógrafo, cinegrafista, professor, youtuber, músico, tomador de café, entre outras coisas.
+- 🇧🇷&nbsp;[Bruno fotos](https://www.youtube.com/c/BrunoFotos) - Este é um canal voltado para quem gosta de Fotografia, seja profissional ou amador!
+- 🇧🇷&nbsp;[Rafael Ferreira](https://www.youtube.com/c/RafaelFerreira/videos) - A Rafael Ferreira Fotografias é uma empresa de fotografia com foco em educação online para fotógrafos.
+- 🇧🇷&nbsp;[Rafael Sarrus](https://www.youtube.com/c/RafaelSarrus/videos) - Produtor de vídeo especializado em vídeos de moda.
+- 🇧🇷&nbsp;[Renato Rocha Miranda](https://www.youtube.com/c/RenatoRochaMiranda/videos) - Nesse canal eu te ajudo a fotografar e iluminar melhor com os conteúdos mais fáceis de entender.
+- 🇺🇸&nbsp;[Retouch Sensei](https://www.youtube.com/channel/UC4PCP391pyIkD8tvyRCAtHQ/videos) - Photoshop, Capture One, Post processing, Retouching, Colour grading.
+- 🇧🇷&nbsp;[Rod Cauhi](https://www.youtube.com/c/RodCauhiOficial) - A minha visão sobre cinema, audiovisual e tudo que envolve nosso universo que tanto amamos!
+- 🇧🇷&nbsp;[Silas Abreu](https://www.youtube.com/channel/UCjSKI5eLNB3G9mzc9E9KY_w) - Fotografo e Instrutor de Fotografia de Moda.
+- 🇧🇷&nbsp;[Vlog do zack](https://www.youtube.com/c/vlogdozack) - Sobre objetivas e equipamentos fotográficos.
+- 🇺🇸&nbsp;[Waqas Qazi](https://www.youtube.com/c/WaqasQazi/videos) - Learn professional color grading techniques by a working commercial colorist.
+- 🇧🇷&nbsp;[What a Rec](https://www.youtube.com/channel/UC6N5n2wqHOS15KWBSibiAog) - Um videocast onde trocamos idéia sobre audiovisual, vida, carreira, pessoas e tudo que gostamos e sentimos que pode fazer diferença na vida da nossa audiência.
+- 🇧🇷&nbsp;[Xablair](https://www.youtube.com/c/xablair) - Vamos compartilhar conteúdo sobre o universo do audiovisual, fotografia, música e tudo que envolve arte de modo geral.
+
 ## Posing Guide
 
 Posing guide to help you build your internal and external essay
@@ -183,6 +196,13 @@ Reliable stores with good references
 - [F&F Equipamentos](https://www.ffequipamentos.com) - The best equipment in one place. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/ffequipamentos)
 - [Lucas Lapa Photopro](https://www.lucaslapa.com.br) - Sales Leader in Brazil, Your photographic equipment store. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/lucaslapaphotopro)
 - [Shop da Fotografia](https://www.instagram.com/shopdafotografia) - Store located in Ribeirão Preto with sales of new, used and used products. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/shopdafotografia)
+
+## Courses
+
+Courses and workshops with successful professionals on specific or general knowledge
+
+- 🇧🇷&nbsp;[Edição de Fotografia com Lucas Pinhel 💲](https://curso.lucaspinhel.com) - One of the most influential photographers in Brazil, filmmaker of premium brands and international reference in photo editing. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/lucaspinhel)
+- 🇧🇷&nbsp;[Curso Guii Rossi de Fotografia 💲](https://hotmart.com/product/curso-guii-rossi-de-fotografia) - Mindset for more creative and efficient photographic processes. [<img src="media/person/instagram.svg" height="20px"/>](https://www.instagram.com/guiirossi)
 
 ## Utilities
 
