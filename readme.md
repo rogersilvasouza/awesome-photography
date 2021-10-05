@@ -182,6 +182,40 @@ Informative videos on photography, filming, editing and related topics.
 - 🇧🇷&nbsp;[Bruno fotos](https://www.youtube.com/c/BrunoFotos) - Este é um canal voltado para quem gosta de Fotografia, seja profissional ou amador!
 - 🇧🇷&nbsp;[Carlos Alberto B.](https://www.youtube.com/c/CarlosAlbertoBB) - Dominar o "Photoshop", o Lightroom e ferramentas de edição de imagens!
 - 🇧🇷&nbsp;[Casal REC](https://www.youtube.com/channel/UCdvTtvc_FhqSpH7029FmFHw) - Somos Dani e Lucas, um casal de Filmmakers apaixonados por histórias, viagens e audiovisual!
+- 🇧🇷&nbsp;[Cropada](https://www.youtube.com/channel/UC9A7DhhCGDFJYAUKZ0qrZhw) - E nós acreditamos que se unir e compartilhar informações é o caminho mais poderoso para estruturar um mercado mais eficiente, produtivo e melhor preparado.
+- 🇧🇷&nbsp;[Cezar Augusto Fotografia](https://www.youtube.com/channel/UCnevSGxAIzNkjll397ftPDg) - Cursos de Fotografia para iniciantes, iniciados e apaixonados por nossa arte! Aqui no canal, você encontrará vídeos de técnica fotográfica, iluminação e edição.
+- 🇧🇷&nbsp;[Cris Silva](https://www.youtube.com/channel/UCxlRRbcwcGHhawdw3rwwscg) - E aê seu arretado?! Aqui terá o dia a dia de um videomaker casado e pai de 3. Também terá vários conteúdos #SemFrescura sobre captação e edição de fashion film e ensaio pessoal.
+- 🇧🇷&nbsp;[Daniel Cajal](https://www.youtube.com/user/milkieTV) - Sou esportista radical, videomaker profissional e viajo o mundo produzindo vídeos.
+- 🇧🇷&nbsp;[Daniel Marvel](https://www.youtube.com/user/DMarvel) - Sou Diretor de Cena, Diretor de Fotografia, Roteirista e Produtor Audiovisual há cerca de 20 anos.
+- 🇧🇷&nbsp;[Danilo Castro](https://www.youtube.com/user/Dcastroofc) - Oi, sou Danilo Castro designer e fotógrafo com algum tempo de jornada.
+- 🇧🇷&nbsp;[David Correa](https://www.youtube.com/user/davidcorrea1) - Criei este canal com o único objetivo de compartilhar um pouco do meu conhecimento, e ajudar a todos os fotógrafos ou pessoas que queiram conhecer este mundo fantástico da fotografia.
+- 🇺🇸&nbsp;[Elinchrom](https://www.youtube.com/user/elinchromLTD) - At Elinchrom, we focus all our expertise and technological resources on creating products to inspire and keep pace with you as you expand your creative horizons.
+- 🇧🇷&nbsp;[Fernando Bagnola](https://www.youtube.com/user/TheBestLights) - Um espaço onde são desvendados os segredos da Fotografia Profissional.
+- 🇧🇷&nbsp;[Fill Rocha](https://www.youtube.com/channel/UCQI1ZLdxaEvwGVb1OFDZblQ) - Host do SMIA.
+- 🇧🇷&nbsp;[Flauzilino Jr](https://www.youtube.com/user/flauguitar) - Filmaker.
+- 🇧🇷&nbsp;[Fotologia Vlog](https://www.youtube.com/channel/UC0w8ZAmU5iBuxSjUZGkQjdw) - O Fotologia é um projeto dedicado a produzir conteúdo para quem quer viver de fotografia.
+- 🇧🇷&nbsp;[Grupo Luz](https://www.youtube.com/channel/UCqZRSO16am4ZKcLWynf28Kg) - Os nossos cursos e consultorias são planejados a partir das experiências vividas e trabalhos realizados pelo próprio Grupo Luz.
+- 🇧🇷&nbsp;[Guilherme Rossi](https://www.youtube.com/channel/UC0_LFVZ3oUi2cR2xosy-2pw) - Oi! Eu sou o Guilherme, Fotógrafo e Creator que começou na fotografia em 2015, formado em Publicidade e Propaganda e que ama fotografar e dirigir pessoas!
+- 🇧🇷&nbsp;[Gus Franco](https://www.youtube.com/channel/UCF_9WyEWH2on5N_8LqtnOzw) - Conversas e dicas sobre o mundo da arte e fotografia.
+- 🇧🇷&nbsp;[Gustavo Sousa](https://www.youtube.com/channel/UCICNeOnowBsX_TBAbH54EFw) - O canal Gustavo Sousa nasceu em Julho de 2016 com a proposta de ser um canal focado em elaborar vídeos tutoriais sobre o mundo da fotografia newborn, ensaios espontâneos em externa e Edição no Lightroom.
+- 🇧🇷&nbsp;[Hebert Coelho](https://www.youtube.com/user/hebertcoelho) - Videos sobre fotografia de moda, ensaios, making of, comentarios de fotos, entrevistas, reviews, unboxing.
+- 🇧🇷&nbsp;[Heitor Pergher](https://www.youtube.com/user/8957afse) - O Heitor Pergher Fotografia é um canal de fotografia e de review de equipamentos fotográficos. Se inscreva e melhore sua técnica em fotografia e cinematografia.
+- 🇧🇷&nbsp;[Henrique Ribas](https://www.youtube.com/channel/UCBP_-6Ja5P8oqLCBy5useAA) - Aqui você aprende tratamento de imagens e edição de fotos com Lightroom e Photoshop na prática, de forma fácil e rápida.
+- 🇧🇷&nbsp;[Instinto Criativo](https://www.youtube.com/c/InstintoCriativo) - Instinto Criativo lives sobre fotografia.
+- 🇧🇷&nbsp;[Isabela e Daniel Fotografia](https://www.youtube.com/channel/UCQeCxnWcMsUw5ktLyrdMaFQ) - Ensaios e bastidores.
+- 🇧🇷&nbsp;[Italo Fortes](https://www.youtube.com/channel/UCxvZ3gPlq9n2trEPK7iknYQ) - Aqui você vai ter a disposição vídeos sobre o mundo do audiovisual e fotografia.
+- 🇧🇷&nbsp;[Jaison Sampaio](https://www.youtube.com/channel/UC6_c8RRXKy0Zb7QqMX-6OZQ) - Aqui você vai encontrar tutoriais, video aulas e dicas de como viver apenas de fotografia.
+- 🇺🇸&nbsp;[Jamie Windsor](https://www.youtube.com/c/jamiewindsor) - My channel is all about photography related tips, reviews and techniques.
+- 🇧🇷&nbsp;[Jan Mayer](https://www.youtube.com/user/JANVERARDO) - Reviews de equipamentos e dicas de fotografia e vídeo baseados na minha experiência como fotógrafo e filmmaker.
+- 🇧🇷&nbsp;[Jhony Sul](https://www.youtube.com/channel/UCfNGlrCFU2JcMgjM7xQHo6w) - O canal teve inicio dia 18/mar/2016 com o intuito de te mostrar que você nao precisa ter o melhor para ser o melhor.
+- 🇧🇷&nbsp;[Karina Martins](https://www.youtube.com/channel/UCBot69QWNIt76BiXr-i2tYQ) - Karina martins fotógrafa.
+- 🇧🇷&nbsp;[Karly Marques](https://www.youtube.com/user/KarlybethMarques) - Fotógrafa e youtuber pronta para ensinar tudo que foi aprendido em fotografia.
+- 🇧🇷&nbsp;[Landiim](https://www.youtube.com/channel/UCQCvy45iMoO064yepFGQL2Q) - Olá, sou Landiim, Diretor e Editor de videoclipe. Atuo principalmente na área do TRAP e do FUNK!
+- 🇧🇷&nbsp;[Lens Data](https://www.youtube.com/channel/UCF1ZZIORetDKhMph3DuvbAA) - Perfil com review de lentes.
+- 🇧🇷&nbsp;[Débora Agualuza](https://www.youtube.com/channel/UCgXeWFv0NeF6bgb6awHhE4Q) - Os bastidores da Lovely Bee - Estúdio de Ensaios Sensuais por Débora Agualuza.
+- 🇧🇷&nbsp;[Lucas Pinhel](https://www.youtube.com/user/lucasfistaile) - Lucas pinhel nomade digital.
+- 🇧🇷&nbsp;[Luccas De Capra](https://www.youtube.com/c/LuccasDeCapra) - Depois de trabalhar como modelo por 10 anos viajando o mundo, decidi retomar o meu projeto do YouTube. Minha idéia aqui é compartilhar mais sobre a minha vida aqui em Milão onde eu moro.
+- 🇧🇷&nbsp;[Luiz Carlos Junior](https://www.youtube.com/channel/UCFpAQGgfRFwCE32YOJqorIg) - Luiz Carlos Junior é fotógrafo, escritor e explorador, e já visitou mais de 25 países desde 2009 em busca de culturas e experiências.
 - 🇧🇷&nbsp;[Rafael Ferreira](https://www.youtube.com/c/RafaelFerreira/videos) - A Rafael Ferreira Fotografias é uma empresa de fotografia com foco em educação online para fotógrafos.
 - 🇧🇷&nbsp;[Rafael Sarrus](https://www.youtube.com/c/RafaelSarrus/videos) - Produtor de vídeo especializado em vídeos de moda.
 - 🇧🇷&nbsp;[Renato Rocha Miranda](https://www.youtube.com/c/RenatoRochaMiranda/videos) - Nesse canal eu te ajudo a fotografar e iluminar melhor com os conteúdos mais fáceis de entender.
