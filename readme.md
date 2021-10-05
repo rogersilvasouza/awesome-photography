@@ -216,6 +216,15 @@ Informative videos on photography, filming, editing and related topics.
 - 🇧🇷&nbsp;[Lucas Pinhel](https://www.youtube.com/user/lucasfistaile) - Lucas pinhel nomade digital.
 - 🇧🇷&nbsp;[Luccas De Capra](https://www.youtube.com/c/LuccasDeCapra) - Depois de trabalhar como modelo por 10 anos viajando o mundo, decidi retomar o meu projeto do YouTube. Minha idéia aqui é compartilhar mais sobre a minha vida aqui em Milão onde eu moro.
 - 🇧🇷&nbsp;[Luiz Carlos Junior](https://www.youtube.com/channel/UCFpAQGgfRFwCE32YOJqorIg) - Luiz Carlos Junior é fotógrafo, escritor e explorador, e já visitou mais de 25 países desde 2009 em busca de culturas e experiências.
+- 🇺🇸&nbsp;[Mango Street](https://www.youtube.com/channel/UC5bp5_6h-ZxkBz6S_33ZUVg) - Photography tutorials that don't waste your time.
+- 🇺🇸&nbsp;[Manny Ortiz](https://www.youtube.com/channel/UC3R5ehQRUHvhJ7rL1eu0AeQ) - New videos every week.
+- 🇧🇷&nbsp;[OZI Audiovisual](https://www.youtube.com/user/ozidf) - Aprenda a fazer vídeos, com qualidade, na prática!
+- 🇧🇷&nbsp;[Papo Kent](https://www.youtube.com/channel/UCfi0zHdJ0jA83iCjcTc22yA) - Por ter tido uma história meio fora da curva desde que comprei a minha primeira DSLR acredito que a forma como aprendi é bastante interessante e diferente.
+- 🇧🇷&nbsp;[Papo de imagem](https://www.youtube.com/channel/UCYbh9Z02-rhnUyJKQ0_lL_w) - Papo De Imagem é um canal idealizado por mim Lucas onde me encontrei no dever de repassar tudo aquilo que aprendi na internet e sobre a internet.
+- 🇺🇸&nbsp;[Parker Walbeck](https://www.youtube.com/c/ParkerWalbeck) - I run an online film school called Full Time Filmmaker where I act as a mentor helping filmmakers/videographers from around the world, develop their filmmaking skills and businesses.
+- 🇧🇷&nbsp;[PrimoShoots](https://www.youtube.com/channel/UC92A2-W2edUaW0nrOtnRqhg) - Aqui vamos estar sempre trazendo conteúdos relacionado a fotografia.
+- 🇧🇷&nbsp;[Quazar Art](https://www.youtube.com/channel/UCY1PiEwrFF8u0dRDmDDPwaA) - Oi, gente! Sou a Dani, tenho 25 anos e moro no interior de São Paulo! Sou fotógrafa de retratos e fotografias artísticas e fine art :)
+- 🇧🇷&nbsp;[Rabbitfilms](https://www.youtube.com/channel/guilhermecoelhoTV) - Fking crazy worldwide videographers. Welcome!.
 - 🇧🇷&nbsp;[Rafael Ferreira](https://www.youtube.com/c/RafaelFerreira/videos) - A Rafael Ferreira Fotografias é uma empresa de fotografia com foco em educação online para fotógrafos.
 - 🇧🇷&nbsp;[Rafael Sarrus](https://www.youtube.com/c/RafaelSarrus/videos) - Produtor de vídeo especializado em vídeos de moda.
 - 🇧🇷&nbsp;[Renato Rocha Miranda](https://www.youtube.com/c/RenatoRochaMiranda/videos) - Nesse canal eu te ajudo a fotografar e iluminar melhor com os conteúdos mais fáceis de entender.
@@ -223,9 +232,15 @@ Informative videos on photography, filming, editing and related topics.
 - 🇧🇷&nbsp;[Rod Cauhi](https://www.youtube.com/c/RodCauhiOficial) - A minha visão sobre cinema, audiovisual e tudo que envolve nosso universo que tanto amamos!
 - 🇧🇷&nbsp;[Silas Abreu](https://www.youtube.com/channel/UCjSKI5eLNB3G9mzc9E9KY_w) - Fotografo e Instrutor de Fotografia de Moda.
 - 🇧🇷&nbsp;[Vlog do zack](https://www.youtube.com/c/vlogdozack) - Sobre objetivas e equipamentos fotográficos.
-- 🇺🇸&nbsp;[Waqas Qazi](https://www.youtube.com/c/WaqasQazi/videos) - Learn professional color grading techniques by a working commercial colorist.
+- 🇧🇷&nbsp;[Santa Mãe do ISO Alto](https://www.youtube.com/channel/UC9_jR9MWb_Bx1JJm84Dpirw) - Santa Mae do ISO Alto (SMIA para os íntimos) é um podcast semanal onde falamos de assuntos relacionados a Produção de Vídeo e fotografia. Sempre com um convidado relevante do mercado.
+- 🇺🇸&nbsp;[Sean Kitching](https://www.youtube.com/user/SeanKitchingTV) - I'm a travel/ adventure filmmaker with a passion for creating enticing content and teaching you how to do the same.
 - 🇧🇷&nbsp;[What a Rec](https://www.youtube.com/channel/UC6N5n2wqHOS15KWBSibiAog) - Um videocast onde trocamos idéia sobre audiovisual, vida, carreira, pessoas e tudo que gostamos e sentimos que pode fazer diferença na vida da nossa audiência.
+- 🇧🇷&nbsp;[Thiago Rodrigues](https://www.youtube.com/user/thiagobolars1) - Thiago Rodrigues é um aficionado por testar equipamentos tentando extrair deles a melhor qualidade possível de imagens.
 - 🇧🇷&nbsp;[Xablair](https://www.youtube.com/c/xablair) - Vamos compartilhar conteúdo sobre o universo do audiovisual, fotografia, música e tudo que envolve arte de modo geral.
+- 🇺🇸&nbsp;[Wedding Film School](https://www.youtube.com/channel/UC5QuUjtd80FkGRSLYP_052Q) - Wedding Film School is a community that educates and connects wedding filmmakers from around the world.
+- 🇺🇸&nbsp;[Waqas Qazi](https://www.youtube.com/channel/UCZ_4tLOd-iu4zBDApQsZZTw) - Learn professional color grading techniques by a working commercial colorist.
+- 🇧🇷&nbsp;[Zatala](https://www.youtube.com/channel/UC9Erg7Bn8rtCAuZd4ZCdU5A) - Seja muito bem vindo(a) ao meu canal, meu nome é Walisson Oliveira, sou um fotógrafo em início de carreira e pretendo por aqui compartilhar o que aprendi, estou aprendendo.
+- 🇧🇷&nbsp;[ÁGAPE Multimídia](https://www.youtube.com/user/AgapeFabio) - No Youtube a mais de 10 anos, Agape Multimídia, do basico ao profissional, vida de técnico, reviews e testes em equipamentos de áudio e vídeo, Streaming e Broadcasting.
 
 ## Posing Guide
 
