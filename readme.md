@@ -162,9 +162,26 @@ Template Podcast Item
 
 Informative videos on photography, filming, editing and related topics.
 
+- 🇧🇷&nbsp;[35 milímetros](https://www.youtube.com/channel/UCBeMB1BquDgEnY2kf0eFoKw) - "35mm" é um canal dedicado a fotografia.
+- 🇧🇷&nbsp;[Ale Rodrigues](https://www.youtube.com/user/Alesgar1) - Fotografia, Inspiração e histórias por Ale Rodrigues.
+- 🇧🇷&nbsp;[Allan Elly](https://www.youtube.com/user/allan2905) - Canal sobre fotografia de casamento e ensaios.
+- 🇧🇷&nbsp;[Andre Pilli](https://www.youtube.com/c/andrepilli/videos) - Director based in LA, HP Ambassador for creative hardware.
+- 🇧🇷&nbsp;[Andrey Lanhi - Back to Basics](https://www.youtube.com/user/amlanhi) - Micro Nano Empresário, nerd por profissão, completamente apaixonado pela minha família, fotografia e tecnologia.
 - 🇧🇷&nbsp;[Abdala Brothers](https://www.youtube.com/c/AbdalaBrothers1) - Film & FX division Basically, we're magicians behind cameras and computers.
 - 🇧🇷&nbsp;[Armando Vernaglia Jr](https://www.youtube.com/channel/UCpFSFUvYFhb1I6_LxK8zLTw) - Armando Vernaglia Jr, fotógrafo, cinegrafista, professor, youtuber, músico, tomador de café, entre outras coisas.
+- 🇧🇷&nbsp;[Arruma na Edição](https://www.youtube.com/channel/UCNe8-yisU-oqHz9MxcHF_2A) - Aqui falaremos tudo sobre o mundo Audiovisual.
+- 🇧🇷&nbsp;[Arthur Rosa](https://www.youtube.com/c/ArthurRosaTV) - Dicas de fotografia, cursos de fotografia grátis, dicas de marketing para fotógrafos, Instagram para fotógrafos, etc.
+- 🇧🇷&nbsp;[Audiovizuando](https://www.youtube.com/c/audiovizuando) - Descomplicando o audiovisual de A a Z!
+- 🇧🇷&nbsp;[AvMakers](https://www.youtube.com/user/BaltarejoTutoriais) - Escola online para Filmmakers e Fotógrafos.
+- 🇧🇷&nbsp;[Beatriz Cavalcanti](https://www.youtube.com/channel/UCVqIyDguAw-VkfMeJDK5bow) - Olá internet! Beatriz Cavalcanti aqui.
+- 🇧🇷&nbsp;[Beto Gonsalvo](https://www.youtube.com/channel/UCfiWOadj81KsQAOfgp6Q88Q) - Esse é um canal voltado para os amantes de fotografia e cinema, com dicas e muita conversa boa, sobre as mais variadas formas de arte e suas vertentes.
+- 🇧🇷&nbsp;[BIGSHINE PRO](https://www.youtube.com/channel/UCfiWOadj81KsQAOfgp6Q88Q) - A BIGSHINE PRO é uma produtora independente.
+- 🇧🇷&nbsp;[BLK Midia](https://www.youtube.com/user/blkmidia) - Reviews, dicas e tutoriais de fotografia, áudio e vídeo.
+- 🇧🇷&nbsp;[Breno Raffa](https://www.youtube.com/channel/UC99uM6B8vmvcHgW1wRTN6-Q) - Sou fotógrafo, editor, às vezes filmmaker, e aqui compartilho meu conhecimento sobre fotografia!
+- 🇧🇷&nbsp;[Bruno Nonogaki](https://www.youtube.com/channel/UC99uM6B8vmvcHgW1wRTN6-Q) - Fotografia de viagens e paisagens. Da composição e captura ao pós processamento!
 - 🇧🇷&nbsp;[Bruno fotos](https://www.youtube.com/c/BrunoFotos) - Este é um canal voltado para quem gosta de Fotografia, seja profissional ou amador!
+- 🇧🇷&nbsp;[Carlos Alberto B.](https://www.youtube.com/c/CarlosAlbertoBB) - Dominar o "Photoshop", o Lightroom e ferramentas de edição de imagens!
+- 🇧🇷&nbsp;[Casal REC](https://www.youtube.com/channel/UCdvTtvc_FhqSpH7029FmFHw) - Somos Dani e Lucas, um casal de Filmmakers apaixonados por histórias, viagens e audiovisual!
 - 🇧🇷&nbsp;[Rafael Ferreira](https://www.youtube.com/c/RafaelFerreira/videos) - A Rafael Ferreira Fotografias é uma empresa de fotografia com foco em educação online para fotógrafos.
 - 🇧🇷&nbsp;[Rafael Sarrus](https://www.youtube.com/c/RafaelSarrus/videos) - Produtor de vídeo especializado em vídeos de moda.
 - 🇧🇷&nbsp;[Renato Rocha Miranda](https://www.youtube.com/c/RenatoRochaMiranda/videos) - Nesse canal eu te ajudo a fotografar e iluminar melhor com os conteúdos mais fáceis de entender.
