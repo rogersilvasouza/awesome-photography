@@ -274,10 +274,17 @@ Courses and workshops with successful professionals on specific or general knowl
 
 Useful software or links that help with certain problems
 
-- [Adobe Digital Negative Converter](https://helpx.adobe.com/photoshop/digital-negative.html) -
-  Adobe DNG Converter makes it possible to easily convert camera-specific raw files, from supported cameras to the more universal DNG raw file format.
-- [ImageOptim](https://imageoptim.com) -
-  Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
+- [Adobe Digital Negative Converter](https://helpx.adobe.com/photoshop/digital-negative.html) - Adobe DNG Converter makes it possible to easily convert camera-specific raw files, from supported cameras to the more universal DNG raw file format.
+- [CloudConvert](https://cloudconvert.com) - CloudConvert is an online file converter.
+- [ImageOptim](https://imageoptim.com) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
+- [Linktree](https://linktr.ee) - Connect audiences to all your content with one link.
+- [Mixkit](https://mixkit.co) - High-quality stock videos that are completely free..
+- [Remove.bg](https://www.remove.bg/) - Remove Image Background.
+- [Pingo](https://css-ig.net/pingo) - A fast image optimizer for web.
+- [Pexels](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators.
+- [Prisma](https://prisma-ai.com/) - AI that turns your photos into artwork in seconds.
+- [Unsplash](https://unsplash.com/images) - 1,000,000+ Free Images.
+- [Smart Upscaler](https://icons8.com/upscaler) - Use ML to improve and enlarge images for free.
 
 ## Recommendations
 
