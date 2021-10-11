@@ -24,6 +24,8 @@ List of content topics
 
 - [Courses](#courses)
 
+- [Guides](#guides)
+
 - [Contribute](#contribute)
 
 ## Brands
@@ -291,6 +293,12 @@ Useful software or links that help with certain problems
 Product recommendations by content producers
 
 - [Thiago Rodrigues](https://www.thiagorodrigueschannel.com/) - Here you will find all the products I recommend in the audiovisual segment
+
+## Guides
+
+Fast content for you to learn
+
+- [HOW TO DO - brunnokawagoe](https://www.instagram.com/brunnokawagoe/guide/how-to-do/18015623350328270) - Compilado de dicas, conteúdos de criação pra gente aprender juntos sobre fotografia e audiovisual.
 
 ## Contribute
 
