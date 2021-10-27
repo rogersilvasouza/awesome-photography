@@ -287,6 +287,9 @@ Useful software or links that help with certain problems
 - [Prisma](https://prisma-ai.com/) - AI that turns your photos into artwork in seconds.
 - [Unsplash](https://unsplash.com/images) - 1,000,000+ Free Images.
 - [Smart Upscaler](https://icons8.com/upscaler) - Use ML to improve and enlarge images for free.
+- [Lets Enhance IO](https://letsenhance.io) - Powerful AI to increase image resolution without quality loss.
+- [Pichance](https://pichance.com) - Instantly transform your images using our AI tools.
+- [Upscalepics](https://upscalepics.com) - Upscale And Enhance Your Images.
 
 ## Recommendations
 
