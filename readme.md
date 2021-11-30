@@ -236,6 +236,7 @@ Informative videos on photography, filming, editing and related topics.
 - 🇧🇷&nbsp;[Vlog do zack](https://www.youtube.com/c/vlogdozack) - Sobre objetivas e equipamentos fotográficos.
 - 🇧🇷&nbsp;[Santa Mãe do ISO Alto](https://www.youtube.com/channel/UC9_jR9MWb_Bx1JJm84Dpirw) - Santa Mae do ISO Alto (SMIA para os íntimos) é um podcast semanal onde falamos de assuntos relacionados a Produção de Vídeo e fotografia. Sempre com um convidado relevante do mercado.
 - 🇺🇸&nbsp;[Sean Kitching](https://www.youtube.com/user/SeanKitchingTV) - I'm a travel/ adventure filmmaker with a passion for creating enticing content and teaching you how to do the same.
+- 🇧🇷&nbsp;[Paulo Lima - Estúdio Arauá Fotografia](https://www.youtube.com/c/Est%C3%BAdioArau%C3%A1Fotografia/videos) - Se você gosta de luz controlada, retratos bem feitos esse é o lugar pra aprender mais sobre esse conteúdo..
 - 🇧🇷&nbsp;[What a Rec](https://www.youtube.com/channel/UC6N5n2wqHOS15KWBSibiAog) - Um videocast onde trocamos idéia sobre audiovisual, vida, carreira, pessoas e tudo que gostamos e sentimos que pode fazer diferença na vida da nossa audiência.
 - 🇧🇷&nbsp;[Thiago Rodrigues](https://www.youtube.com/user/thiagobolars1) - Thiago Rodrigues é um aficionado por testar equipamentos tentando extrair deles a melhor qualidade possível de imagens.
 - 🇧🇷&nbsp;[Xablair](https://www.youtube.com/c/xablair) - Vamos compartilhar conteúdo sobre o universo do audiovisual, fotografia, música e tudo que envolve arte de modo geral.
