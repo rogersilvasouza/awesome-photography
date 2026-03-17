@@ -279,6 +279,7 @@ Useful software or links that help with certain problems
 
 - [Adobe Digital Negative Converter](https://helpx.adobe.com/photoshop/digital-negative.html) - Adobe DNG Converter makes it possible to easily convert camera-specific raw files, from supported cameras to the more universal DNG raw file format.
 - [CloudConvert](https://cloudconvert.com) - CloudConvert is an online file converter.
+- [FrameCoach](https://framecoach.io) - Real-time camera coaching app for filmmakers and photographers — guides you through camera settings, composition, and shot choices.
 - [ImageOptim](https://imageoptim.com) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
 - [Linktree](https://linktr.ee) - Connect audiences to all your content with one link.
 - [Mixkit](https://mixkit.co) - High-quality stock videos that are completely free..
