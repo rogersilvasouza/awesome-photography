@@ -244,6 +244,7 @@ Useful software or links that help with certain problems
 - [Linktree](https://linktr.ee) - Connect audiences to all your content with one link.
 - [Mixkit](https://mixkit.co) - High-quality stock videos that are completely free..
 - [Remove.bg](https://www.remove.bg/) - Remove Image Background.
+- [TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover) - Remove image backgrounds fully in the browser, no signup, photos never uploaded.
 - [Pingo](https://css-ig.net/pingo) - A fast image optimizer for web.
 - [Pexels](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators.
 - [Prisma](https://prisma-ai.com/) - AI that turns your photos into artwork in seconds.
