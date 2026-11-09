@@ -254,6 +254,7 @@ Useful software or links that help with certain problems
 - [Lets Enhance IO](https://letsenhance.io) - Powerful AI to increase image resolution without quality loss.
 - [Pichance](https://pichance.com) - Instantly transform your images using our AI tools.
 - [Upscalepics](https://upscalepics.com) - Upscale And Enhance Your Images.
+- [Enhance.Place](https://enhance.place/) - Free online 2× or 4× AI photo enhancement for one JPG, PNG or WebP image at a time with no login; an optional Windows app upscales photos and videos locally (its exports need a subscription).
 
 ## Recommendations
 
