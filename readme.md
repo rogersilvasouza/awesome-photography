@@ -243,6 +243,7 @@ Useful software or links that help with certain problems
 - [ImageOptim](https://imageoptim.com) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
 - [Linktree](https://linktr.ee) - Connect audiences to all your content with one link.
 - [Mixkit](https://mixkit.co) - High-quality stock videos that are completely free..
+- [PixLasso](https://pixlasso.com) - Browser extension for Chrome and Edge that saves the images on a page at the largest size it can find, in one ZIP, and converts WebP to JPG or PNG. Free up to 30 images per batch.
 - [Remove.bg](https://www.remove.bg/) - Remove Image Background.
 - [TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover) - Remove image backgrounds fully in the browser, no signup, photos never uploaded.
 - [Pingo](https://css-ig.net/pingo) - A fast image optimizer for web.
