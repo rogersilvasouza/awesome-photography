@@ -246,6 +246,7 @@ Useful software or links that help with certain problems
 - [PixLasso](https://pixlasso.com) - Browser extension for Chrome and Edge that saves the images on a page at the largest size it can find, in one ZIP, and converts WebP to JPG or PNG. Free up to 30 images per batch.
 - [Remove.bg](https://www.remove.bg/) - Remove Image Background.
 - [TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover) - Remove image backgrounds fully in the browser, no signup, photos never uploaded.
+- [TinyTools Background Blur](https://tomaserben.com/free-tools/background-blur) - Blur photo backgrounds fully in the browser, no signup, portraits stay sharp.
 - [Pingo](https://css-ig.net/pingo) - A fast image optimizer for web.
 - [Pexels](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators.
 - [Prisma](https://prisma-ai.com/) - AI that turns your photos into artwork in seconds.
