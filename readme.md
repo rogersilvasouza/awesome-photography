@@ -240,6 +240,7 @@ Useful software or links that help with certain problems
 - [Adobe Digital Negative Converter](https://helpx.adobe.com/photoshop/digital-negative.html) - Adobe DNG Converter makes it possible to easily convert camera-specific raw files, from supported cameras to the more universal DNG raw file format.
 - [CloudConvert](https://cloudconvert.com) - CloudConvert is an online file converter.
 - [FrameCoach](https://framecoach.io) - Real-time camera coaching app for filmmakers and photographers — guides you through camera settings, composition, and shot choices.
+- [FrameStill](https://apps.apple.com/app/id6805472164) - iPhone and iPad app for adding clean borders, EXIF frames and collages to photos in batches.
 - [ImageOptim](https://imageoptim.com) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
 - [Linktree](https://linktr.ee) - Connect audiences to all your content with one link.
 - [Mixkit](https://mixkit.co) - High-quality stock videos that are completely free..
@@ -268,6 +269,7 @@ Product recommendations by content producers
 Fast content for you to learn
 
 - [HOW TO DO - brunnokawagoe](https://www.instagram.com/brunnokawagoe/guide/how-to-do/18015623350328270) - Compilado de dicas, conteúdos de criação pra gente aprender juntos sobre fotografia e audiovisual.
+- [The Digicam](https://thedigicam.com) - Buying guide for older digital compact cameras: real sample photos for each model, a photo-based finder that suggests cameras by the look you like, and specs like sensor, memory card and battery for around 2,500 digicams.
 
 ## Contribute
 
