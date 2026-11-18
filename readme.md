@@ -243,6 +243,7 @@ Useful software or links that help with certain problems
 - [FrameStill](https://apps.apple.com/app/id6805472164) - iPhone and iPad app for adding clean borders, EXIF frames and collages to photos in batches.
 - [ImageOptim](https://imageoptim.com) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
 - [Linktree](https://linktr.ee) - Connect audiences to all your content with one link.
+- [Listing Photo Resizer](https://www.october-ai.com/tools/listing-photo-resizer) - Free browser tool that resizes a batch of photos to the sizes Airbnb, Zillow, the MLS and other listing sites ask for; nothing is uploaded and no signup.
 - [Louppe](https://louppe.eu/) - Free, open-source Mac app for culling photos and video from folders and memory cards, checking focus at 100%, and copying the selected originals.
 - [Mixkit](https://mixkit.co) - High-quality stock videos that are completely free..
 - [PixLasso](https://pixlasso.com) - Browser extension for Chrome and Edge that saves the images on a page at the largest size it can find, in one ZIP, and converts WebP to JPG or PNG. Free up to 30 images per batch.
