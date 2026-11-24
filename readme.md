@@ -259,6 +259,7 @@ Useful software or links that help with certain problems
 - [Pichance](https://pichance.com) - Instantly transform your images using our AI tools.
 - [Upscalepics](https://upscalepics.com) - Upscale And Enhance Your Images.
 - [Enhance.Place](https://enhance.place/) - Free online 2× or 4× AI photo enhancement for one JPG, PNG or WebP image at a time with no login; an optional Windows app upscales photos and videos locally (its exports need a subscription).
+- [Free HEIC to JPG Converter](https://free-heic-to-jpg.web-free.site/) - Free browser tool that converts iPhone HEIC/HEIF photos to JPG or PNG in batches, with a quality slider and ZIP download; no signup.
 
 ## Recommendations
 
