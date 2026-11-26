@@ -241,6 +241,8 @@ Useful software or links that help with certain problems
 - [CloudConvert](https://cloudconvert.com) - CloudConvert is an online file converter.
 - [FrameCoach](https://framecoach.io) - Real-time camera coaching app for filmmakers and photographers — guides you through camera settings, composition, and shot choices.
 - [FrameStill](https://apps.apple.com/app/id6805472164) - iPhone and iPad app for adding clean borders, EXIF frames and collages to photos in batches.
+- [Golden hour calculator (Pocket Colorist)](https://colorist.legen.uk/tools/golden-hour) - Free golden hour, blue hour, sunrise and sunset times for any city and date, with a chart of the sun's height. Runs in the browser; no location permission, no signup.
+- [Grade Lab (Pocket Colorist)](https://colorist.legen.uk/lab) - Free browser tool to try 54 color grades, grouped by scene and style, on your own photo with a 0–150% strength dial. The page can't connect to any server, so the photo never leaves your device.
 - [ImageOptim](https://imageoptim.com) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
 - [Linktree](https://linktr.ee) - Connect audiences to all your content with one link.
 - [Listing Photo Resizer](https://www.october-ai.com/tools/listing-photo-resizer) - Free browser tool that resizes a batch of photos to the sizes Airbnb, Zillow, the MLS and other listing sites ask for; nothing is uploaded and no signup.
@@ -272,6 +274,7 @@ Fast content for you to learn
 
 - [HOW TO DO - brunnokawagoe](https://www.instagram.com/brunnokawagoe/guide/how-to-do/18015623350328270) - Compilado de dicas, conteúdos de criação pra gente aprender juntos sobre fotografia e audiovisual.
 - [The Digicam](https://thedigicam.com) - Buying guide for older digital compact cameras: real sample photos for each model, a photo-based finder that suggests cameras by the look you like, and specs like sensor, memory card and battery for around 2,500 digicams.
+- [Pocket Colorist](https://colorist.legen.uk/) - Guides to why photos of snow, sunsets, food and faces come out wrong and how to fix them, with before/after comparisons from real unedited photos and steps for iPhone Photos and Lightroom.
 
 ## Contribute
 
